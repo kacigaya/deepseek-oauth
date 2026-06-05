@@ -5,7 +5,7 @@
 <h1 align="center">DeepSeek Pi OAuth</h1>
 
 <p align="center">
-   <strong>Simple DeepSeek web-login/OAuth bridge installer for Pi.</strong><br>
+   <strong>DeepSeek web-login/OAuth bridge installer for Pi.</strong><br>
    <em>Based on <a href="https://github.com/CJackHwang/ds2api/">CJackHwang/ds2api</a>.</em>
 </p>
 
@@ -69,7 +69,7 @@ must translate DeepSeek's DSML/XML tool-call output into standard
 
 ## Google-login DeepSeek accounts
 
-If your DeepSeek account was created using Google login, password login may fail unless you set a normal DeepSeek password.
+If your DeepSeek account was created with Google login, password login may fail unless you set a normal DeepSeek password.
 
 ## DeepSeek account mutes
 
